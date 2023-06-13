@@ -1,1 +1,1 @@
-# testing
+ sample code to calculate simple interest
